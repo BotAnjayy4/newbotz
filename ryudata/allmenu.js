@@ -1,6 +1,6 @@
 exports.allmenu = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+kebo:owner
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
@@ -209,7 +209,6 @@ Instagram : @Fandyyy._
 ⚘👾 ${prefix}report
 ⚘👾 ${prefix}req
 
-Fitur Nya Masih Dikit Jadi
-Subscribe For Update 🤙
+Fitur Ni Doanh Tinggal Pake Jan Bct
 `
 }
